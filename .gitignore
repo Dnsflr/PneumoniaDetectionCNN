@@ -1,5 +1,2 @@
 *.pkl
 *.keras
-*.keras
-*.keras
-model_cnn_full.keras
